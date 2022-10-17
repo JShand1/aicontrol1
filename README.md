@@ -35,7 +35,7 @@ _평가받을 수 있도록 항상 자신의 행동을 돌아볼 수 있는 사�
     
     평소 좋아하는 노래 장르는 힙합을 주로로 듣는 편이다.
     그 중에서도 최근에 나온 BE'O의 Brunch 이다
-    ![image](https://user-images.githubusercontent.com/112447424/196166839-2c222b49-7ccb-41d6-af8b-cbaa67b9fd98.png)
+/* ![image](https://user-images.githubusercontent.com/112447424/196166839-2c222b49-7ccb-41d6-af8b-cbaa67b9fd98.png) */
 
 
     
